@@ -58,7 +58,7 @@ The Flask web page allows users to:
 ---
 
 ## Video
-비디오링크
+[비디오링크](https://www.youtube.com/shorts/tiNhmMqPftI)
 
 ---
 
