@@ -28,7 +28,7 @@ The Raspberry Pi hosts a standalone web server that allows users to control LEDs
 - GPIO pins configured as output using Python
 - Flask web server sends commands to control LED states
 
-<img src="YOUR_CIRCUIT_IMAGE_HERE" width="400"/>
+<img src="https://github.com/user-attachments/assets/0e0bb48b-4791-439f-9f32-0757ab4f5a86" width="400"/>
 
 ---
 
@@ -45,7 +45,8 @@ The Flask web page allows users to:
 ---
 
 ## IDE / Terminal
-<img src="YOUR_TERMINAL_SCREENSHOT_HERE" width="400"/>
+<img src="https://github.com/user-attachments/assets/a96c80ff-f40e-4911-b5e9-30c2fd974d3a" width="400"/>
+
 
 ---
 
@@ -53,11 +54,7 @@ The Flask web page allows users to:
 - Raspberry Pi successfully hosted the Flask web server
 - LEDs were controlled through the browser interface
 - GPIO states updated correctly when buttons were pressed
-
-
-<img alt="HW4_hardware" src="https://github.com/user-attachments/assets/0e0bb48b-4791-439f-9f32-0757ab4f5a86" width="400"/>
-
-
+  
 ---
 
 ## Video
