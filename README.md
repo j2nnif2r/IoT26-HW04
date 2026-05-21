@@ -54,12 +54,14 @@ The Flask web page allows users to:
 - LEDs were controlled through the browser interface
 - GPIO states updated correctly when buttons were pressed
 
-<img src="YOUR_LED_RESULT_IMAGE_HERE" width="400"/>
+
+<img alt="HW4_hardware" src="https://github.com/user-attachments/assets/0e0bb48b-4791-439f-9f32-0757ab4f5a86" width="400"/>
+
 
 ---
 
 ## Video
-[YOUR_VIDEO_LINK_HERE](YOUR_VIDEO_LINK_HERE)
+비디오링크
 
 ---
 
